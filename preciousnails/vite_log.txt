@@ -1,0 +1,13 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite --port 3456 --host
+
+
+  VITE v5.4.19  ready in 389 ms
+
+  ➜  Local:   http://localhost:3456/
+  ➜  Network: http://62.171.190.8:3456/
+  ➜  Network: http://172.18.0.1:3456/
+Browserslist: browsers data (caniuse-lite) is 9 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
